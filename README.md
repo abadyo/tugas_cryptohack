@@ -1,2 +1,2 @@
 # tugas_cryptohack
-Repo untuk tugas cryptohack. Ne peeky peeky ;_
+Repo untuk tugas cryptohack. No peeky peeky ;_
